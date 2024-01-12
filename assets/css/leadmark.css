@@ -8775,6 +8775,10 @@ button.bg-dark:focus {
   box-shadow: none !important;
 }
 
+.w-10 {
+  width: 10% !important;
+}
+
 .w-25 {
   width: 25% !important;
 }
@@ -8993,6 +8997,11 @@ button.bg-dark:focus {
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important;
+}
+
+.ml-6,
+.mx-6 {
+  margin-left: 10rem !important;
 }
 
 .p-0 {
@@ -11659,7 +11668,7 @@ textarea.form-control {
   border-radius: 100px;
   padding: 2px;
   margin: 0 auto 20px;
-  max-width: 400px;
+  max-width: 350px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
